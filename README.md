@@ -12,3 +12,12 @@ This project is a simple web scraping tool built with Python and Beautiful Soup.
 
    ```bash
    pip install beautifulsoup4 requests openpyxl
+
+## Output
+The scraped laptop details will be stored in an Excel spreadsheet named "laptop_data.xlsx" in the project directory.
+
+## License
+This project is open-source and available under the MIT License.
+
+#
+Happy web scraping! 🕷️🖥️📊
